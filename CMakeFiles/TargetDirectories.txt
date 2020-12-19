@@ -1,0 +1,14 @@
+/root/etnx-explorer/0214/CMakeFiles/edit_cache.dir
+/root/etnx-explorer/0214/CMakeFiles/rebuild_cache.dir
+/root/etnx-explorer/0214/CMakeFiles/xmrblocks.dir
+/root/etnx-explorer/0214/ext/CMakeFiles/edit_cache.dir
+/root/etnx-explorer/0214/ext/CMakeFiles/rebuild_cache.dir
+/root/etnx-explorer/0214/ext/CMakeFiles/myext.dir
+/root/etnx-explorer/0214/ext/mstch/CMakeFiles/edit_cache.dir
+/root/etnx-explorer/0214/ext/mstch/CMakeFiles/rebuild_cache.dir
+/root/etnx-explorer/0214/ext/mstch/src/CMakeFiles/edit_cache.dir
+/root/etnx-explorer/0214/ext/mstch/src/CMakeFiles/rebuild_cache.dir
+/root/etnx-explorer/0214/ext/mstch/src/CMakeFiles/mstch.dir
+/root/etnx-explorer/0214/src/CMakeFiles/edit_cache.dir
+/root/etnx-explorer/0214/src/CMakeFiles/rebuild_cache.dir
+/root/etnx-explorer/0214/src/CMakeFiles/myxrm.dir
